@@ -6,7 +6,7 @@ baseurl: ""
 author:
   name: Kazu Nakane
   bio: Engineering Physics @ UBC
-  avatar: assets/images/avatar.jpg
+  avatar: assets/images/Icon_kazu.jpg
   links:
     - label: "GitHub"
       icon: "fab fa-github"
