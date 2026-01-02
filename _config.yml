@@ -1,7 +1,21 @@
 name: Kazuhiko Nakane
-description: "I'm Kazu, an Engineering Physics student at UBC
-  Physics, Condensed Matter Physics, Computational Physics"
+description: "I'm Kazu, an Engineering Physics student at UBC"
 url: "https://KazuoCalvin.github.io"
 baseurl: ""
 
+avatar: https://github.com/KazuoCalvin.png
+
 theme: minima
+
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - command.txt
+  - todo.txt
+  - _temp/index.html
+  - _temp/
