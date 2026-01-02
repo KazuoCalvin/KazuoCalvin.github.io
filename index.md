@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: Hi, I'm Kazu Nakane
+title: Home
 ---
 
 
