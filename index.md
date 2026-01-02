@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
+author_profile: true
 ---
 
-# Kazu Nakane
+# Hi, I'm Kazu Nakane
 
-Engineering Physics @ UBC
+I am an Engineering Physics student at UBC. My interest is in condensed matter physics, particularly 2D materials, quasicrystals, and magnetic materials.
