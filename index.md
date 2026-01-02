@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # Kazu Nakane
 
-hello word!
+Engineering Physics @ UBC
