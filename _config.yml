@@ -15,13 +15,15 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:kazuhiko.nakane@gmail.com"
 
-
+# Theme settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 
+#plugins
 plugins:
   - jekyll-include-cache
 
+#LaTeX
 mathjax: true
 
 markdown: kramdown
