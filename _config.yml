@@ -6,7 +6,7 @@ baseurl: ""
 author:
   name: Kazu Nakane
   bio: Engineering Physics @ UBC
-  avatar: /assets/images/avatar.jpg
+  avatar: assets/images/avatar.jpg
   links:
     - label: "GitHub"
       icon: "fab fa-github"
@@ -20,6 +20,8 @@ remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
+
+mathjax: true
 
 markdown: kramdown
 kramdown:
@@ -35,8 +37,3 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
-  - command.txt
-  - todo.txt
-  - _temp/index.html
-  - _temp/
