@@ -7,8 +7,8 @@ google_site_verification: "lBHat7bGq-MldLr1Vjh3FkVlnD3TEK9br8g0s_f8vAU"
 author:
   name: Kazu Nakane
   bio: Engineering Physics @ UBC
-  avatar: assets/images/Icon_kazu.jpg
-  logo: assets/images/Logo.jpg
+  avatar: /assets/images/Icon_kazu.jpg
+  logo: /assets/images/Logo.jpg
   links:
     - label: "GitHub"
       icon: "fab fa-github"
@@ -19,7 +19,7 @@ author:
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "mint"
 
 #plugins
 plugins:
