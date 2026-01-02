@@ -17,6 +17,7 @@ author:
 
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: auto
 
 plugins:
   - jekyll-include-cache
